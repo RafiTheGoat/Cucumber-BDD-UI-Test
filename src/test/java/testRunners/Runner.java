@@ -5,7 +5,7 @@ import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
-import core.CucumberReportingConfig;
+import utilities.CucumberReportingConfig;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
@@ -15,7 +15,7 @@ import core.CucumberReportingConfig;
 		tags = "@login",
 		dryRun = false,
 		monochrome = true,
-		
+		//including full path as required in my OS.
 		plugin = {"pretty",
 				"html:/Users/owner/git/repository/us.bullish.test/target/site/cucumber-pretty",
 			    "json:/Users/owner/git/repository/us.bullish.test/target/cucumber.json"},

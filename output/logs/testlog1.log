@@ -144,3 +144,258 @@
 2022-10-04 12:04:34,084 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
 2022-10-04 12:04:34,277 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
 2022-10-04 12:04:35,323 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 18:49:57,343 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:50:03,314 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:50:03,654 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:50:03,971 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 18:50:04,253 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:50:04,346 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User is logged in with correct credentials!
+2022-10-04 18:50:04,554 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 18:50:04,591 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:50:08,089 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:50:08,387 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:50:08,707 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 18:50:08,964 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:50:39,259 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 18:50:39,298 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:50:42,702 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:50:43,041 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:50:43,336 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 18:50:43,585 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:51:13,888 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 18:52:00,751 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:52:05,861 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:52:06,218 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:52:06,497 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 18:52:06,738 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:52:06,833 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User is logged in with correct credentials!
+2022-10-04 18:52:07,051 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 18:52:07,073 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:52:09,971 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:52:10,305 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:52:10,607 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 18:52:10,951 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:52:41,320 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 18:52:41,390 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:52:44,707 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:52:45,063 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:52:45,440 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 18:52:45,717 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:53:15,929 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 18:55:19,384 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:55:24,228 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:55:24,551 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:55:24,835 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 18:55:25,133 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:55:25,212 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User is logged in with correct credentials!
+2022-10-04 18:55:25,424 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 18:55:25,445 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:55:28,530 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:55:28,841 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:55:29,111 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 18:55:29,391 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:55:59,472 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Wrong input by the user!
+2022-10-04 18:55:59,702 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 18:55:59,719 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 18:56:03,163 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 18:56:03,621 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 18:56:03,845 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 18:56:04,096 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 18:56:34,124 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Wrong input by the user!
+2022-10-04 18:56:34,346 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:04:13,391 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:04:19,372 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:04:19,668 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:04:20,076 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:04:20,334 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:04:20,368 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Login succes!
+2022-10-04 19:04:20,548 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:04:20,577 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:04:23,471 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:04:23,807 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:04:24,066 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:04:24,371 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:04:54,612 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:04:54,655 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:04:58,062 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:04:58,363 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:04:58,736 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:04:59,021 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:05:29,317 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:05:57,648 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:06:02,552 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:06:02,878 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:06:03,198 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:06:03,463 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:06:33,857 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:06:33,908 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:06:37,029 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:06:37,376 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:06:37,705 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:06:37,942 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:07:08,204 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:07:08,219 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:07:11,377 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:07:11,798 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:07:12,086 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:07:12,347 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:07:42,715 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:08:19,771 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:08:24,348 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:08:24,628 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:08:24,923 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:08:25,239 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:08:55,700 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:08:55,781 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:08:59,456 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:08:59,743 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:09:00,053 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:09:00,324 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:09:30,754 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:09:30,787 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:09:34,405 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:09:34,794 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:09:35,064 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:09:35,331 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:09:37,115 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:13:00,588 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:13:05,156 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:13:05,449 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:13:05,731 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:13:05,990 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:13:36,319 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:13:36,368 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:13:39,890 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:13:40,372 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:13:40,797 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:13:41,238 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:14:11,458 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:14:11,478 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:14:15,196 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:14:15,593 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:14:15,919 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:14:16,209 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:14:46,579 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:15:35,585 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:15:40,677 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:15:41,154 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:15:41,450 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:15:41,717 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:15:42,008 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:15:42,048 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:15:45,201 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:15:45,541 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:15:45,781 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:15:46,004 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:16:16,099 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:16:16,368 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:16:16,392 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:16:19,467 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:16:19,888 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:16:20,167 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:16:20,407 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:16:27,748 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:16:27,958 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:16:35,168 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:16:39,522 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:16:39,821 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:16:40,124 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:16:40,371 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:16:40,560 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:16:40,626 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:16:43,467 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:16:43,733 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:16:44,139 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:16:44,385 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:17:11,526 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:17:11,752 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:17:11,770 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:17:14,821 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:17:15,090 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:17:15,339 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:17:15,488 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:17:15,559 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:17:15,743 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:18:40,734 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:18:45,467 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:18:45,754 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:18:46,028 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:18:46,299 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:18:46,539 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:18:46,574 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:18:50,281 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:18:50,681 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:18:51,096 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:18:51,384 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:19:21,437 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:19:21,680 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:19:21,704 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:19:25,284 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:19:25,653 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:19:25,874 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:19:26,126 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:19:30,500 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:19:30,678 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:20:09,939 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:20:14,496 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:20:14,877 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:20:15,186 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:20:15,455 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:20:15,558 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is logged in!
+2022-10-04 19:20:15,759 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:20:15,789 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:20:18,700 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:20:19,026 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:20:19,315 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:20:19,684 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:20:26,178 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:20:26,351 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:20:26,368 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:20:29,462 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:20:29,766 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:20:30,007 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:20:30,263 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:20:32,613 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:20:32,805 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:33:05,075 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:33:10,683 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:33:11,019 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:33:11,330 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:33:11,593 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:33:11,710 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is logged in!
+2022-10-04 19:33:12,070 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:33:12,114 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:33:15,047 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:33:15,399 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:33:15,671 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:33:15,925 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:33:46,005 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:33:46,443 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:33:46,461 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:33:49,739 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:33:50,101 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:33:50,355 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:33:50,626 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:33:58,519 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:33:58,769 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords FAILED
+2022-10-04 19:34:14,837 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:34:20,459 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:34:20,964 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:34:21,236 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: SuperSecretPassword!
+2022-10-04 19:34:21,482 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:34:21,558 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is logged in!
+2022-10-04 19:34:21,880 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:34:21,916 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:34:24,947 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:34:25,287 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:34:25,544 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: wrongUserand password: SuperSecretPassword!
+2022-10-04 19:34:25,790 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:34:55,888 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:34:56,271 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED
+2022-10-04 19:34:56,291 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords started
+2022-10-04 19:34:59,207 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user is on the main page
+2022-10-04 19:34:59,527 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicked on Form Authentication link
+2022-10-04 19:34:59,764 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input the username: tomsmithand password: wrongpass
+2022-10-04 19:34:59,997 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - user clicks on login button
+2022-10-04 19:35:30,037 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - User input wrong data
+2022-10-04 19:35:30,410 [main] INFO /Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties - Scenario inputting usernames and passwords PASSED

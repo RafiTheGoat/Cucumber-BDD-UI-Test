@@ -1,5 +1,12 @@
 package pageObjects;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.Date;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -13,7 +20,6 @@ public class LoginPageObjects extends Base{
 		//Using the PageFactory to initialize our elements in the ui.
 		PageFactory.initElements(driver,this);
 	}
-	
 	
 	//page objects for Background 
 	//using the FindBy annotation from org.openqa.selenium.support to find elements on the DOM.
@@ -42,27 +48,25 @@ public class LoginPageObjects extends Base{
 		String expectedText = "Welcome to the-internet";
 		String actualText = indexPageHeader.getText();
 		Assert.assertEquals(expectedText,actualText);
-		
-	
+
 	}
 	
 	/*
 	 * clicks on Form Authentication link
 	 */
+	
 	public void clickOnformAuth() {
-		formAuthenticationLink.click();
-		
+		formAuthenticationLink.click();	
 	}
 	
 	/*
 	 * input username and password in the text fields
-	 */
-	
+	 */	
 	public void inputCredintials(String username, String password) {
 		formInputUsername.sendKeys(username);
-		formInputPassword.sendKeys(password);
-		
+		formInputPassword.sendKeys(password);		
 	}
+	
 	/*
 	 * user clicks on login button
 	 */
@@ -72,28 +76,54 @@ public class LoginPageObjects extends Base{
 	
 	
 	
-	@SuppressWarnings("deprecation")
 	public void verifyLogin() {
 		//verifying that wrong input message is not displayed.
-		if(rightInput.isDisplayed()) {
-			Assert.assertEquals(rightInput.isDisplayed(), true);
+		try {
+			Assert.assertTrue(rightInput.isDisplayed());
+			logger.info("user is logged in!");
 		}
-		else logger.info("Wrong input by the user!");
+		catch(Exception noSuchElementException) {
+			System.out.print("Wrong Input by user!");
+			logger.info("User input wrong data");
+		}
 		
+		takeScreenShot();
 		
 		
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	/*
+	 * taking screenshot
+	 */
+		public static void takeScreenShot() {
+
+			String location = System.getProperty("user.dir") + "\\output\\screenshots\\";
+			String screenShotFileName = screenShotName() + ".png";
+
+			File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
+			try {
+				FileUtils.copyFile(file, new File(location + screenShotFileName));
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				System.out.println("Exception in execution");
+			}
+		}
+		
+		/*
+		 * Generating new screenshot name
+		 */
+		public static String screenShotName() {
+
+			Date date = new Date();
+			String screenShot = date.toString().replace(":", "_").replace(" ", "_");
+			return screenShot;
+		
+		}
+
 }
+	
+	
+	

@@ -27,6 +27,7 @@ public class Base {
 	// this class will help us to log each step of our execution
 	public static Logger logger; 
 	// this is path to config file where we specify the browser and URL
+	//including full path as required by OS
 	private String configPath = "/Users/owner/git/repository/us.bullish.test/src/test/resources/input/config.properties"; 
 	private String log4jPath = "/Users/owner/git/repository/us.bullish.test/src/test/resources/input/log4j.properties"; // this is path to log4j file 
 	

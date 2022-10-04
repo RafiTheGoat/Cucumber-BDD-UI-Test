@@ -1,4 +1,4 @@
-package core;
+package utilities;
 
 import java.io.*;
 import java.util.*;
@@ -18,10 +18,10 @@ public class CucumberReportingConfig {
 		File reportOutputDirectory = new File("target");
 			
 			List<String> jsonFiles = new ArrayList<>();
-			jsonFiles.add("/Users/owner/git/repository/us.tigers.capstone/target/cucumber.json");
+			jsonFiles.add("/Users/owner/git/repository/us.bullish.test/target/cucumber.json");
 			
 			String buildNumber = "1";
-			String projectName = "Capstone";
+			String projectName = "Bullish";
 		
 			
 			Configuration configuration = new Configuration(reportOutputDirectory, projectName);
